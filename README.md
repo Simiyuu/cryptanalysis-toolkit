@@ -94,3 +94,5 @@ This toolkit was developed as part of BIT4138 Advanced Cryptography coursework. 
 
 ---
 *BIT4138 — Advanced Cryptography | Mount Kenya University
+
+**Logbook:** [View Full Logbook Here]https://docs.google.com/document/d/e/2PACX-1vSP0DzOBZlVfGYJZmS4ah8nncagX_5jdFpql6LbjoKtBMwKIUh7qFl35lqHoGGmBpfQ3DRdQ6tIRKJk/pub
